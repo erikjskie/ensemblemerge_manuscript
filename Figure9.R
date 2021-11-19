@@ -20,7 +20,7 @@ scores = data.frame(score_method=character(), score=double(),  Datasets=characte
 
 for(i in 1:18){
 	system(sprintf("wget -x -c -nH https://s3.msi.umn.edu/skiex003/datasets/dataset=JC_benchmark_scRNAseq_version=20211008a/dataset_%i.rds", i)) #download dataset from aws
-	data = readRDS(sprintf("skiex003/datasets/dataset=JC_benchmark_scRNAseq_version=20211008a/dataset_%i.rds", j)) # read dataset into memory as SummarizedExperiment object
+	data = readRDS(sprintf("skiex003/datasets/dataset=JC_benchmark_scRNAseq_version=20211008a/dataset_%i.rds", i)) # read dataset into memory as SummarizedExperiment object
 	data = as(data, "SingleCellExperiment") #convert to SingleCellExperiment
 	keep_feature <- rowSums(counts(data) > 0) > 0 #Identify genes of relevance
 	data <- data[keep_feature, ] #trim extra genes left over from merging with other datasets
