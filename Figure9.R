@@ -9,7 +9,8 @@ library(dplyr) #dataframe management
 batch = "batch"
 cell_type = "cell_type"
 method = "Uncorrected"
-n_iterations = 1000	n_neighbors = 15L #neighbors for clustering analysis
+n_iterations = 1000	
+n_neighbors = 15L #neighbors for clustering analysis
 resolution_min = 1e-3 #resolution min change from one step to the next
 resolution_max = 1 #resolution max change from one step to the next
 resolution_length = 40L #number of steps in resolving resolution
