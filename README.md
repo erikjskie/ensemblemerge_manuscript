@@ -1,7 +1,6 @@
-# Repository for ensemblemerge manuscript
-Stores figures and data for ensemblemerge manuscript
+### The code and datasets for the manuscript:
 
-
+# EnsembleMerge: Integration of single cell RNA-seq datasets using an ensemble approach
 
 ## Processed datasets
 
