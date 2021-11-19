@@ -2,6 +2,8 @@
 
 # EnsembleMerge: Integration of single cell RNA-seq datasets using an ensemble approach
 
+The R package EnsembleMerge can be found at https://github.com/erikjskie/ensemblemerge
+
 ## Processed datasets
 
 | | Dataset | Format | Script | 
