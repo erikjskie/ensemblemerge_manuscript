@@ -23,7 +23,6 @@ Datasets sourced from public data
 | --- | --- | --- | --- | 
 | Villani 2017 | [link](https://s3.msi.umn.edu/skiex003/datasets/dataset=JC_benchmark_scRNAseq_version=20211008a/dataset_1.rds) | SummarizedExperiment | [Source](https://hub.docker.com/r/jinmiaochenlab/batch-effect-removal-benchmarking) |
 | Han 2018 | [link](https://s3.msi.umn.edu/skiex003/datasets/dataset=JC_benchmark_scRNAseq_version=20211008a/dataset_2.rds) | SummarizedExperiment | [Source](https://hub.docker.com/r/jinmiaochenlab/batch-effect-removal-benchmarking) |
-| Chen 2020 | [link](https://s3.msi.umn.edu/skiex003/datasets/dataset=JC_benchmark_scRNAseq_version=20211008a/dataset_3.rds) | SummarizedExperiment | [Source](https://hub.docker.com/r/jinmiaochenlab/batch-effect-removal-benchmarking) |
 | Hemberg Panc | [link](https://s3.msi.umn.edu/skiex003/datasets/dataset=JC_benchmark_scRNAseq_version=20211008a/dataset_4.rds) | SummarizedExperiment | [Source](https://hub.docker.com/r/jinmiaochenlab/batch-effect-removal-benchmarking) |
 | PBMC | [link](https://s3.msi.umn.edu/skiex003/datasets/dataset=JC_benchmark_scRNAseq_version=20211008a/dataset_5.rds) | SummarizedExperiment | [Source](https://hub.docker.com/r/jinmiaochenlab/batch-effect-removal-benchmarking) |
 | 293t_Jurkat | [link](https://s3.msi.umn.edu/skiex003/datasets/dataset=JC_benchmark_scRNAseq_version=20211008a/dataset_6.rds) | SummarizedExperiment | [Source](https://hub.docker.com/r/jinmiaochenlab/batch-effect-removal-benchmarking) |
