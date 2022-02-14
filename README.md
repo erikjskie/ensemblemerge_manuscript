@@ -36,7 +36,7 @@ Datasets sourced from public data
 | Polanski 2019 | [link](https://s3.msi.umn.edu/skiex003/datasets/dataset=JC_benchmark_scRNAseq_version=20211008a/dataset_15.rds) | SummarizedExperiment | [Source](https://hub.docker.com/r/jinmiaochenlab/batch-effect-removal-benchmarking) |
 | Zheng 2017 | [link](https://s3.msi.umn.edu/skiex003/datasets/dataset=JC_benchmark_scRNAseq_version=20211008a/dataset_16.rds) | SummarizedExperiment | [Source](https://hub.docker.com/r/jinmiaochenlab/batch-effect-removal-benchmarking) |
 | HBDC | [link](https://s3.msi.umn.edu/skiex003/datasets/dataset=JC_benchmark_scRNAseq_version=20211008a/dataset_17.rds) | SummarizedExperiment | [Source](https://github.com/satijalab/seurat-data) |
-| Panc8 | [link](https://s3.msi.umn.edu/skiex003/datasets/dataset=JC_benchmark_scRNAseq_version=20211008a/dataset_18.rds) | SummarizedExperiment | [Source](https://github.com/satijalab/seurat-data) ||
+| Panc8 | [link](https://s3.msi.umn.edu/skiex003/datasets/dataset=JC_benchmark_scRNAseq_version=2021219a/dataset_4_seurat_panc8.rds) | SummarizedExperiment | [Source](https://github.com/satijalab/seurat-data) ||
 
 # Notebooks
 | Description | link |  
